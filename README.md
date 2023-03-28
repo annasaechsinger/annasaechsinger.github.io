@@ -1,2 +1,3 @@
-# annasaechsinger.github.io
-My website
+---
+permalink: /index.html
+---
