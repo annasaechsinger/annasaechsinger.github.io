@@ -1,4 +1,4 @@
 {% include navigation.html %}  
-![Image contact](/images/contact.JPG){: width="400"}   
-Email: anna@saechsinger.de  
-Instagram: @annaritasae
+![Image contact](/images/contact.JPG){: width="200"}   
+Email: [anna@saechsinger.de](mailto:anna@saechsinger.de)  
+Instagram: [@annaritasae](https://www.instagram.com/annaritasae/)

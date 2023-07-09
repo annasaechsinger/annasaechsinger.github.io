@@ -5,13 +5,13 @@
 @import "minima";
 
 // Overwrite some style we do not like!
-
 /**
  * Tables
  */
  table {
     table-layout: auto;
-    margin-top: 0; 
+    margin-top: 0;
+    width: 50%;
     margin-bottom: $spacing-unit;
     text-align: $table-text-align;
     color: lighten($text-color, 18%);
@@ -23,7 +23,7 @@
       }
     }
     th, td {
-      padding: 5px;
+      padding: 0px;
     }
     th {
       background-color: lighten($grey-color-light, 3%);
@@ -35,7 +35,7 @@
     }
   }
   
-  /**
+/**
  * Site header
  */
 .site-header {
@@ -66,4 +66,81 @@
  */
  .post-header {
   margin-bottom: 0;
+}
+
+/**
+ * Links
+ */
+ a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $brand-color;
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/**
+ * Page content
+ */
+ .page-content {
+  padding: 0px;
+  flex: 1;
+  text-align: left;
+}
+
+.footer-heading {
+  @include relative-font-size(1.125);
+  margin-bottom: 0px
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: 0px;
+  }
+}
+
+.post-content {
+  margin-bottom: 0;
+
+  h2 {
+    @include relative-font-size(2);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.625);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.375);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.25);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+    }
+  }
 }

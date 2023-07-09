@@ -6,11 +6,14 @@ layout: home
 ---
 {% include navigation.html %}
 
+{:refdef: style="text-align: center;"}
 ![Image 1](/images/etching_main_page.jpg){: width="400"}
+{: refdef}
 
+{:refdef: style="text-align: center;"}
 13.07.2023 – 29.07.2023  
 „Was blüht uns da?“  
 Sendlinger Kulturschmiede e.V.  
-Daiserstraße 22, 81371 München
-
+Daiserstraße 22, 81371 München  
 Vernissage 13.07.2023 19:00 Uhr
+{: refdef}
