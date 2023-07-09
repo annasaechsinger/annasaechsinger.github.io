@@ -4,7 +4,7 @@
 ![Image 1](/images/etching_main_page.jpg){: width="500"}  
 trust, 15 x 21 cm, Kaltnadelradierung, Kupferdruckfarbe auf Büttenpapier, 2023  
 <br/><br/>
-![Image 3](/images/image_3.JPG){: width="500"}  
+![Image 3](/images/image_3.jpg){: width="500"}  
 heaven, 140 x 180 cm, Acryl, Ölkreide auf Leinwand, 2023  
 <br/><br/>
 ![Image 2](/images/image_2.jpg){: width="500"}  
