@@ -21,16 +21,16 @@ ohne Titel, 60 x 80 cm, Acryl, Ölkreide auf Leinwand, 2021
 Loslassen, 60 x 135 cm, Seidenpapier, Draht, Nylon, Acryl, Buchenholz, 2021
 <br/><br/>
 ![Image 12](/images/image_12.jpg){: width="500"}  
-Angst, 11 x 15 cm, Kaltnaderadierung, Kupferdruckfarbe auf Papier, 2021   
+Angst, 11 x 15 cm, Kaltnadelradierung, Kupferdruckfarbe auf Papier, 2021   
 <br/><br/>
 ![Image 7](/images/image_7.jpg){: width="500"}  
-Schmerz, 11 x 15 cm, Kaltnaderadierung, Kupferdruckfarbe auf Papier, 2021  
+Schmerz, 11 x 15 cm, Kaltnadelradierung, Kupferdruckfarbe auf Papier, 2021  
 <br/><br/>
 ![Image 9](/images/image_9.jpg){: width="500"}  
-Einfach sein, 11 x 15 cm, Kaltnaderadierung, Kupferdruckfarbe auf Papier, 2021  
+Einfach sein, 11 x 15 cm, Kaltnadelradierung, Kupferdruckfarbe auf Papier, 2021  
 <br/><br/>
 ![Image 8](/images/image_8.jpg){: width="500"}  
-Zuversicht, 11 x 15 cm, Kaltnaderadierung, Kupferdruckfarbe auf Papier, 2021 
+Zuversicht, 11 x 15 cm, Kaltnadelradierung, Kupferdruckfarbe auf Papier, 2021 
 <br/><br/>
 ![Image 10](/images/image_10.jpg){: width="500"}  
 loslassen.festhalten, Acryl, Ölkreide, Pappe und Papier auf Leinwand, 60 x 80 cm, 2019
